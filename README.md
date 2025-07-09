@@ -15,8 +15,7 @@ Projeto desenvolvido durante o NLW Agents da Rocketseat, uma aplicação web que
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/LuxksC/AI_LetMeAsk
-cd let-me-ask
+git clone https://github.com/LuxksC/AI_LetMeAsk.git
 ```
 
 2. Instale as dependências
